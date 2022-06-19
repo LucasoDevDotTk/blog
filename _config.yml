@@ -21,18 +21,18 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: LucasoDevDotTk | Blogs and Tutorials                         # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Tech blog and tutorials for tech tinkerers, by tech tinkerers.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  Tech blog and tutorials for tech tinkerers, by tech tinkerers. It's all FREE!
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'blog.lucasodev.tk'
 
 github:
-  username: github_username             # change to your github username
+  username: lucasodevdottk            # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
@@ -40,12 +40,11 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: LucasoDevDotTk (Lucas Nguyen) and this repository contributors
+  email: lucasoAlt@outlook.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://github.com/LucasoDevDotTk/blog/graphs/contributors     # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -83,7 +82,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://avatars.githubusercontent.com/u/80215223?s=400&u=b38ed368527e4278e2e74230d93a32abd3794d1d&v=4
 
 # boolean type, the global switch for ToC in posts.
 toc: true
