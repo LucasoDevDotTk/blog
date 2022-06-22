@@ -1,6 +1,6 @@
 ---
 title: "Storage Configuring in Proxmox VE"
-date: 2022-06-22 13:00 +2
+date: 2022-06-22 12:30 +2
 categories: [virtualization, proxmox]
 tags: [proxmox, virtual-machines, virtualization, VE, proxmox-VE]    
 ---
