@@ -1,5 +1,5 @@
 ---
-title: "Installing and configuring Proxmox VE"
+title: "Installing Proxmox VE"
 date: 2022-06-21 16:00 +2
 categories: [virtualization, proxmox]
 tags: [proxmox, virtual-machines, virtualization, VE, proxmox-VE]    
