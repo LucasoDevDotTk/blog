@@ -22,11 +22,13 @@ Proxmox VE is a completely open-source level 1 virtualization operating system. 
 > If you are using Rufus, you will have to select DD mode. If you forget this, you will break your boot image.
 {: .prompt-warning }
 
+{:start="3"}
 3. When you're done flashing your USB stick, you can insert the stick into any of the available USB slots on your computer. 
 
 > On some desktops, the front usb ports may not be usable without an OS.
 {: .prompt-info }
 
+{:start="4"}
 4. Plug in your computer power cable, display cable and an ethernet cable to your ethernet port.
 5. Press the key to get to the boot menu, this can be the `ESC`, `F11`, `F12`, `F9` key or any other `F` key. If you are having problems with finding this key, you can check up on your pc manufacturer documentation.
 6. In the boot menu, you have to select the USB stick. There will typically be a name with the manufacturer of your stick and the model of the stick.
@@ -36,6 +38,7 @@ Proxmox VE is a completely open-source level 1 virtualization operating system. 
 > Before the Proxmox Install Screen is appears there is often a black screen which showes a bunch of text, this is normal.
 {: .prompt-info }
 
+{:start="8"}
 8. Select "Install Proxmox VE". 
 9. Press Agree to the EULA for Proxmox VE, if you do not agree, then you shouldn't install Proxmox VE.
 10. Then input a good and secure password, enter your email address and click "Next".
@@ -45,5 +48,7 @@ Proxmox VE is a completely open-source level 1 virtualization operating system. 
 {: .prompt-tip }
 
 ![Picture of network options in PVE](https://raw.githubusercontent.com/LucasoDevDotTk/.github/main/img/blog_website/_posts/2022-06-21-install-proxmox-ve/IMG_E5715.JPG)
+
+{:start="12"}
 12. Look through your settings and check if everything is correct, when you have checked and are sure, you can press install. This will install Proxmox VE and you can access it through your browser at the IP address you entered at port 8006.
 ![Proxmox in the Browser](https://raw.githubusercontent.com/LucasoDevDotTk/.github/main/img/blog_website/_posts/2022-06-21-install-proxmox-ve/Screenshot%202022-06-21%20195426.jpg)
